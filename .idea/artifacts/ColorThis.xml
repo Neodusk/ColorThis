@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ColorThis">
+    <output-path>$USER_HOME$/Desktop/mine/plugins</output-path>
+    <root id="archive" name="ColorThis.jar">
+      <element id="module-output" name="ColorThis" />
+    </root>
+  </artifact>
+</component>

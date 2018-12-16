@@ -1,0 +1,15 @@
+name: ColorThis
+description:
+version: 1.0.0
+main: colorthis.ColorThis
+author: Neodusk
+website: http://neodusk.net
+api-version: 1.13
+depend: []
+softdepend: []
+commands:
+  colorthis:
+    description: Color your name in chat!
+    usage: /colorthis color_name
+    permission: colorthis.colorthis
+    permission-message: You don't have permission to use colorthis.
